@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="220dp"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@mipmap/kf_bg_emotion_banner_def"
+    android:id="@+id/ll"
+    android:layout_marginTop="30dp"
+    tools:context=".CustomDrawerPopupView">
+
+
+</LinearLayout>
